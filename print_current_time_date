@@ -1,0 +1,3 @@
+()
+lcd_print_time(currentTime,hr_format)
+lcd_print_weekday(currentDate.day)
